@@ -141,20 +141,3 @@ This dashboard empowers management to:
 | 🧰 Power Query      | Data cleaning and transformation          |
 | 📊 Excel / CSV      | Source data format                        |
 
-
-## 🏁 **Conclusion**
-
-This project demonstrates the end-to-end process of **data cleaning, modeling, DAX calculation, and visualization** using Power BI.
-The resulting dashboard enables insightful business decisions through interactive and meaningful visual analytics.
-
----
-
-### ⭐ *If you found this project useful, please give it a star on GitHub!*
-
-```
-
----
-
-Would you like me to make this README **with a screenshot layout section (boxes showing where to add images)** — so you can visually match your dashboard sections later?  
-It’ll look even more professional when you upload it to GitHub.
-```
